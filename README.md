@@ -29,5 +29,3 @@ docker build -t my-scraper .
 ```
 docker run -p 5000:5000 my-scraper
 ```
-
-- Abrir un navegador web y visitar 'http://localhost:5000/scrape'
